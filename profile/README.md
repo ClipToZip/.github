@@ -22,6 +22,10 @@ O **ClipToZip** é um ecossistema completo de processamento de vídeos que permi
 - 📧 **Notificações por E-mail** (sucesso/falha)
 - 📊 **Acompanhamento de Status** em tempo real
 
+### 📹 Vídeo de demonstração
+
+- **[Clique aqui](https://www.youtube.com/watch?v=_FwtyjIWAEA)**
+
 ---
 
 ## 🏗️ Arquitetura
