@@ -248,6 +248,12 @@ Todos os serviços atendem aos critérios de qualidade estabelecidos:
 
 ---
 
+## 🏆 Avaliação FIAP
+
+![Avaliação](/docs/avaliacao-fiap.png)
+
+---
+
 ## 📄 Licença
 
 Este projeto foi desenvolvido como trabalho acadêmico para o curso de Pós-Graduação em Arquitetura de Software da FIAP.
